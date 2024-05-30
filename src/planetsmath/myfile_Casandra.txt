@@ -1,3 +1,6 @@
 This is my contribution to the Github collaboration. I hope my sentences are grammarically correct. Is anyone else excited to be working on their projects?
+<<<<<<< HEAD
 
 I am unsure of what code I may be able to add in here. Maybe I can echo some lines of numbers... How do I write code in here? Is there a certain command? 
+=======
+>>>>>>> refs/remotes/origin/main
