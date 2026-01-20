@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2022 Fermi Research Alliance, LLC
+# SPDX-License-Identifier: Apache-2.0
+
 Thunderstorms!
 That's my favorite weather!
 Why does Fermilab have a tornado shelter?
