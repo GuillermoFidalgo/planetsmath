@@ -17,4 +17,7 @@ This code is distributed under the Apache 2.0 license, see the [LICENSE](LICENSE
 
 There is a specfic document on this at [DEVELOPMENT.md](DEVELOPMENT.md)
 
+
+This is g2!
 These are locally made changes to my fork. 
+No NOW IT's OK.
