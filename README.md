@@ -20,4 +20,4 @@ There is a specfic document on this at [DEVELOPMENT.md](DEVELOPMENT.md)
 
 This is g2!
 These are locally made changes to my fork. 
-No NOW IT's OK.
+No now IT's OK.
