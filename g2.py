@@ -3,6 +3,7 @@
 
 #!/usr/bin/env python3
 def foo():
-    print("Hello from the workshop")
+    print("Hello world")
 
 foo()
+# No need for foo.py
