@@ -8,3 +8,5 @@ def foo():
 foo
 # this is my change
 foo
+# this is a change made from my laptop (Guillermo)
+foo bar
