@@ -5,6 +5,10 @@
 def foo():
     print("Hi")
 
+def bar():
+    print("How are you?")
+    
 foo
 # this is my change
 foo
+bar
