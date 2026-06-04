@@ -3,8 +3,6 @@
 
 #!/usr/bin/env python3
 def foo():
-    print("Hi")
+    print("Hello from the workshop")
 
-foo
-# this is my change
-foo
+foo()
