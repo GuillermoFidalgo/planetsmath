@@ -3,6 +3,6 @@
 
 #!/usr/bin/env python3
 def foo():
-    print("Hi")
+    print("Woof Woof")
 
 foo
