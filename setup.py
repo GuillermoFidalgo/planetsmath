@@ -12,3 +12,4 @@ setup(
         "numpy",
     ],
 )
+print("Hi lmao")
