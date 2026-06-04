@@ -27,6 +27,8 @@ def sum_function(list):
 def print_hello():
     print("hello!")
 
+def foo():
+    print("foo")
 
 def sum_product(lists):
     def print_hello():
