@@ -3,7 +3,7 @@
 
 #!/usr/bin/env python3
 def foo():
-    print("Hello world")
+    print("foo")
 
 foo()
-# No need for foo.py
+# updated from foo to foo()
